@@ -22,3 +22,14 @@
 19. Write a program print square root of a number.
 20. Write a program to find the perimeter and area of a circle from the input radius.
 21. Write a program to find the perimeter and area of a square from the input length.
+22. Write a program to convert 400 seconds to minutes and seconds.
+23. Write a program to input seconds and convert seconds to minutes and hours.
+24. Write a program to find roots of a quadratic equation.
+25. Write a program and define a function that adds/subtracts/multiplies/divides 2 numbers.
+26. Write a program that stores every input and on a specific keyword shows all previous values.
+27. Write a program to create a local directory './py_directory'
+28. Write a program to count to 10 but with a delay of 1 second after each count.
+29. Write a program to calculate intrest from on principle amount and time input from the user and print total amount. (Rate of interest = 10%)
+30. Write a program to save an input into a json file.
+31. Write a program to create a calculator class and define addition, subtraction , multiplication and division fuctions in it.
+
