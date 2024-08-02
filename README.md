@@ -32,4 +32,10 @@
 29. Write a program to calculate intrest from on principle amount and time input from the user and print total amount. (Rate of interest = 10%)
 30. Write a program to save an input into a json file.
 31. Write a program to create a calculator class and define addition, subtraction , multiplication and division fuctions in it.
+32. Write a program to input a number and print the pattern that many times. 
+ `*`
+ `**`
+ `***`
+
+33. 
 
