@@ -1,4 +1,9 @@
 # SOME PYTHON EXERSISES TO TEST YOUR SKILLS
+-------------------
+
+.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
+   :target: https://pypi.python.org/pypi/esycord
+   :alt: PyPI supported Python versions
 
 1. Write a program to print "Hello World".
 2. Write a program assign values to 2 variables and print their sum.
@@ -36,3 +41,6 @@
  `*`
  `**`
  `***`
+
+33. Write a program to input a number and print a new number with the odd digits first and the even digits later.
+34. Write a program to tell if an input number is an armstrong number
