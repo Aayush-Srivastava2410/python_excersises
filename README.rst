@@ -19,7 +19,6 @@
 12. Write a program to input a number and check if it is odd or even multiple of 7. If it is not one, print that it is not.
 13. Write a program to input a number print all the factors of it.
 14. Write a program to count to 100.
-> Damn you if you do print(1) print(2) ................
 15. Write a program to print all even numbers from 1 to 100.
 16. Write a program to print all odd numbers from 1 to 100.
 17. Write a program to print all prime numbers from 1 to 100.
